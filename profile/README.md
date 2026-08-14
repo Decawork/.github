@@ -1,1 +1,1 @@
-Decawork - AI Agents for Enterprise IT
+Decawork - Agent Control Plane for IT teams
